@@ -1,0 +1,43 @@
+
+
+body{
+  margin: 0px;
+  padding: 0px;
+}
+#main{
+  margin: 100px;
+}
+
+.gtitle{
+  font-size:25px;
+  font-weight: bold;
+}
+/*设置关数的样式*/
+#gnum{
+  font-size: 50px;
+  color:#8B0000;
+}
+
+.btn{
+  cursor: pointer;
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  color: #fff;
+}
+
+.btn-begin{
+  background: lightseagreen;
+}
+.btn-begin:hover{
+  background: cadetblue;
+  font-weight: bold;
+}
+
+.btn-pause{
+  background: brown;
+}
+.btn-pause:hover{
+  background: orangered;
+  font-weight: bold;
+}
